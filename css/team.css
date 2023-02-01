@@ -1,0 +1,100 @@
+/* ANYTHING THAT GOES HERE WILL APPEAR ON MOBILE. MIGHT GET OVER RIDEN BY FUTURE MEDIA QUERIES */
+
+
+.pageBanner {
+    display: block;
+    padding-top: 0.2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mobile {
+    display: inline;
+}
+
+.tablet {
+    display: none;
+}
+
+.desktop {
+    display: none;
+}
+
+
+/* MEDIA QUERY FOR TABLETS (OVER 660 PIXELS) */
+@media only screen and (min-width: 660px) {
+    main {
+        margin-top: 0.5%;
+        margin-left: 2%;
+        margin-right: 2%;
+        background-color: #eff0f1;
+        border-radius: 15px; 
+    }
+
+    .mobile {
+        display: none;
+    }
+
+    .tablet {
+        display: inline;
+    }
+    
+    .desktop {
+        display: none;
+    }
+
+    nav li {
+        display: inline;
+        list-style-type: none;
+        padding: 0em;
+        margin-left: 1%;
+        margin-right: 1%;
+        width: 15%;
+    }
+
+    section {
+        padding-bottom: 1em;
+    }
+    
+    section p {
+        margin-left: 0;
+    }
+
+    section h1 {
+        text-align: left;
+    }
+    
+    /* Style for anchor element within the section element */
+    section a{
+        background-color: transparent;
+        color: #1D1D1C;
+        font-weight: normal;
+        padding: 0;
+        text-decoration: underline;
+    }
+
+   
+}
+
+/* MEDIA QUERY FOR DESKTOPS (OVER 830 PIXELS) */
+@media only screen and (min-width: 830px) {
+    #spaceBetween {
+        display: flex;
+    }
+
+    #spaceBetween p {
+        padding-left: 1em;
+    }
+
+    .mobile {
+        display: none;
+    }
+
+    .tablet {
+        display: none;
+    }
+    
+    .desktop {
+        display: inline;
+    }
+}

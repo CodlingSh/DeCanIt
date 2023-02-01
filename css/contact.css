@@ -1,0 +1,59 @@
+fieldset {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: .5em;
+	width: 350px;
+	margin: 0 auto;
+}
+legend {
+    color: black;
+    font-weight: bold;
+    font-size: 80%;
+    margin-bottom: .5em;
+}
+label {
+	float: left;
+    width: 90px;
+}
+
+input, select {
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: .5em;
+}
+
+input {
+    width: 14em;	
+}
+
+input.left {
+	width: 1em;
+	padding-left: 0;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: .5em;
+}
+
+input.last {
+	margin-bottom: 1em;
+}
+
+#btnCenter {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+label.error {
+	float: none;
+	color: red;
+	font-size: 87.5%;
+}
+
+.btn {
+	width: 75px;
+	text-align: center;
+	margin-top: 20px;
+}

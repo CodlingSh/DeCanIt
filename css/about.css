@@ -1,0 +1,87 @@
+/* ANYTHING THAT GOES HERE WILL APPEAR ON MOBILE. MIGHT GET OVER RIDEN BY FUTURE MEDIA QUERIES */
+
+body {
+    background-color: #9ed6f4;
+    font-family: "Ubuntu", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for anchor elements within the footer element */
+footer a {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #FFFFFF;
+}
+
+nav li a:hover {
+    color: #FFFFFF;
+}
+
+.titleCenter {
+    text-align: center;
+}
+
+section {
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mobile {
+    display: inline;
+}
+
+.tablet {
+    display: none;
+}
+
+.desktop {
+    display: none;
+}
+
+#accordianBtn {
+    border: solid black 2px;
+    width: 25%;
+    margin: 0px;
+    text-align: center;
+    background-color: #3daee9;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+
+
+/* MEDIA QUERY FOR TABLETS (OVER 660 PIXELS) */
+@media only screen and (min-width: 660px) {
+
+    .mobile {
+        display: none;
+    }
+
+    .tablet {
+        display: inline;
+    }
+    
+    .desktop {
+        display: none;
+    }
+}
+
+/* MEDIA QUERY FOR DESKTOPS (OVER 830 PIXELS) */
+@media only screen and (min-width: 830px) {
+    
+    .mobile {
+        display: none;
+    }
+
+    .tablet {
+        display: none;
+    }
+    
+    .desktop {
+        display: inline;
+    }
+}

@@ -1,0 +1,117 @@
+/* ANYTHING THAT GOES HERE WILL APPEAR ON MOBILE. MIGHT GET OVER RIDEN BY FUTURE MEDIA QUERIES */
+
+main {
+    background-color: #FFFFFF;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border: 2px black solid;
+}
+
+.desktop {
+    display: none;
+}
+
+footer {
+    font-size: .70em;
+    text-align: center;
+    margin-top: 2em;
+    color: #000000;
+}
+
+/* Style for anchor elements within the footer element */
+footer a {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #FFFFFF;
+}
+
+.titleCenter {
+    text-align: center;
+}
+
+.pageBanner {
+    display: block;
+    padding-top: 0.2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.showcase {
+    border: 1px black solid;
+}
+
+section {
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mobile {
+    display: inline;
+}
+
+.tablet {
+    display: none;
+}
+
+/* Styling the table elements */
+table {
+	margin: auto;
+    border: solid 2px #000000;
+    border-radius: 15px;
+	border-collapse: collapse;
+	color: #000000;
+    background-color: #FFFFFF;
+    padding-bottom: 0.5%;
+}
+
+/* Styling both the table headers and table description elements */
+th, td {
+	padding: 3px;
+    border: 1px black solid;
+    text-align: center;
+}
+
+/* Styling the table header elements */
+th {
+    border: solid 2px black;
+    background-color: #3daeef;
+    color: #000000;
+    
+}
+
+/* Styling the captions for the table */
+caption {
+    color: #000000;
+    font-weight: bold;
+	font-size: 2em;
+	
+}
+
+/* Changing the background color as the user hovers over a table row */
+tr:hover {
+	background-color: #9ed6f4;
+}
+
+/* MEDIA QUERY FOR TABLETS (OVER 660 PIXELS) */
+@media only screen and (min-width: 660px) {
+
+    .mobile {
+        display: none;
+    }
+    
+    .tablet {
+        display: inline;
+    } 
+  
+}
+
+/* MEDIA QUERY FOR DESKTOPS (OVER 830 PIXELS) */
+@media only screen and (min-width: 830px) {
+   
+}

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="revolution.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 202.94955 108.65513"
+   height="108.65513mm"
+   width="202.94955mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="22"
+     inkscape:window-x="-8"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:snap-text-baseline="true"
+     showguides="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="167.6844"
+     inkscape:cx="54.048286"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-10.228999,-53.094824)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       style="stroke:none;stroke-opacity:1"
+       id="g1468">
+      <path
+         sodipodi:nodetypes="ccccc"
+         d="M 10.228999,57.033809 H 171.02536 L 209.23931,161.74995 H 48.442951 Z"
+         style="fill:#96a5a6;fill-opacity:1;stroke:none;stroke-width:0.525203;stroke-opacity:1"
+         id="path847" />
+      <path
+         id="rect842"
+         style="fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.525203;stroke-opacity:1"
+         d="M 14.168234,53.094824 H 174.9646 L 213.17856,157.81097 H 52.382186 Z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       transform="scale(0.90559778,1.104243)"
+       id="text855"
+       y="79.580605"
+       x="129.22298"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.292164"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fcfcfc;fill-opacity:1;stroke-width:0.292164"
+         y="79.580605"
+         x="129.22298"
+         id="tspan861"
+         sodipodi:role="line">JOIN THE</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fcfcfc;fill-opacity:1;stroke-width:0.292164"
+         y="100.74723"
+         x="129.22298"
+         id="tspan863"
+         sodipodi:role="line">ELECTRIC CAN OPENER </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fcfcfc;fill-opacity:1;stroke-width:0.292164"
+         y="121.91386"
+         x="129.22298"
+         id="tspan865"
+         sodipodi:role="line">REVOLUTION</tspan></text>
+  </g>
+</svg>
